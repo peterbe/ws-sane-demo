@@ -1,4 +1,4 @@
-# A playground to plat with WebSockets and Sane.
+# A playground to play with WebSockets and Sane.
 
 The ultimate goal is to have a slight, efficient, and simple solution
 that can easily pass the information that a file has changed on disk
