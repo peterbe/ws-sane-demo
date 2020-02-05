@@ -1,0 +1,16 @@
+{
+  "name": "ws-sane-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "sane": "4.1.0",
+    "ws": "7.2.1"
+  },
+  "devDependencies": {
+    "cash-dom": "6.0.1",
+    "nodemon": "2.0.2",
+    "serve": "11.3.0",
+    "sockette": "2.0.6"
+  }
+}
